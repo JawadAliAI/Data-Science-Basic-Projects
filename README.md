@@ -109,7 +109,7 @@ blood pressure, and more
 
 ### Directory Structure
 ```
-└── SUKHMAN-SINGH-1612-Data-Science-Projects/
+└── Data-Science-Projects/
     ├── Loan Approval Prediction/
     │   ├── description.md
     │   ├── loan_approval_dataset.csv
